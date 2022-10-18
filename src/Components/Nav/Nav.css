@@ -1,0 +1,17 @@
+nav {
+    display: inline-flex;
+    justify-content: space-evenly;
+    background-color: #757780;
+    width: 100%;
+}
+
+.nav-text {
+    margin: 20px;
+}
+
+nav h3 {
+    border: 1px solid #f1a208;
+    border-radius: 20px;
+    background-color: #98ce00;
+    padding: 10px;
+}
